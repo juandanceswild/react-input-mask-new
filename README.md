@@ -1,8 +1,10 @@
-# react-input-mask
+# react-input-mask-new
 
-[![Build Status](https://img.shields.io/travis/sanniassin/react-input-mask/master.svg?style=flat)](https://travis-ci.org/sanniassin/react-input-mask) [![npm version](https://img.shields.io/npm/v/react-input-mask.svg?style=flat)](https://www.npmjs.com/package/react-input-mask) [![npm downloads](https://img.shields.io/npm/dm/react-input-mask.svg?style=flat)](https://www.npmjs.com/package/react-input-mask)
+[![Build Status](https://img.shields.io/travis/sanniassin/react-input-mask/master.svg?style=flat)](https://travis-ci.org/juandanceswild/react-input-mask-new) [![npm version](https://img.shields.io/npm/v/react-input-mask.svg?style=flat)](https://www.npmjs.com/package/react-input-mask-new) [![npm downloads](https://img.shields.io/npm/dm/react-input-mask.svg?style=flat)](https://www.npmjs.com/package/react-input-mask-new)
 
 Input masking component for React. Made with attention to UX.
+
+Fork of `sanniassin/react-input-mask`, which has been abandoned. Thanks to him for creating this in the first place.
 
 **This is a development branch for version 3.0. For the latest stable version [see v2 branch](https://github.com/sanniassin/react-input-mask/tree/v2).**
 
@@ -17,7 +19,7 @@ Input masking component for React. Made with attention to UX.
 # Installation
 ```npm install react-input-mask@next --save```
 
-react-input-mask requires **React 16.8.0 or later.** If you need support for older versions, use [version 2](https://github.com/sanniassin/react-input-mask/tree/v2).
+react-input-mask-new requires **React 16.8.0 or later.** If you need support for older versions, use [version 2](https://github.com/sanniassin/react-input-mask/tree/v2).
 
 # Usage
 ```jsx
